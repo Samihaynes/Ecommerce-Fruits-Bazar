@@ -170,7 +170,7 @@ include_once("includes/head.php");
 
                                                 <div class="total-price-contain">
                                                     <span class="title">Total Price:</span>
-                                                    <p class="price">Tk.
+                                                    <p class="price">$.
                                                         <?php
 
                                                         echo $pro_data['pdt_price'];
@@ -219,10 +219,10 @@ include_once("includes/head.php");
                         <div class="product-tabs single-layout biolife-tab-contain">
                             <div class="tab-head">
                                 <ul class="tabs">
-                                    <li class="tab-element active"><a href="#tab_1st" class="tab-link">Products Descriptions</a></li>
+                                    <li class="tab-element active"><a href="#tab_1st" class="tab-link">Descripción de productos</a></li>
 
-                                    <li class="tab-element"><a href="#tab_3rd" class="tab-link">Shipping & Delivery</a></li>
-                                    <li class="tab-element"><a href="#tab_4th" class="tab-link">Customer Reviews <sup>(3)</sup></a></li>
+                                    <li class="tab-element"><a href="#tab_3rd" class="tab-link">Compras</a></li>
+                                    <li class="tab-element"><a href="#tab_4th" class="tab-link">Valoraciones <sup>(3)</sup></a></li>
                                 </ul>
                             </div>
                             <div class="tab-content">

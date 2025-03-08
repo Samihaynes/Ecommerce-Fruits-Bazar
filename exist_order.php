@@ -80,7 +80,7 @@ include_once("includes/head.php");
 
                 <div class="row">
                     <div class="col-md-2">
-                        <h4>Hello <?php
+                        <h4>Holla <?php
                                     if (isset($username)) {
                                         echo strtoupper($username);
                                     }
@@ -97,12 +97,12 @@ include_once("includes/head.php");
 
                                 <table class="shop_table cart-form">
                                     <thead>
-                                        <tr>
+                                        <tr><!--cambio de soufiane  -->
                                             <th class="product-name">Order Id</th>
-                                            <th class="product-price">Products</th>
-                                            <th class="product-quantity">Quantity</th>
+                                            <th class="product-price">Productos</th>
+                                            <th class="product-quantity">cantidad</th>
                                             <th class="product-subtotal">Amount</th>
-                                            <th class="product-subtotal">Order Status</th>
+                                            <th class="product-subtotal">estado de order</th>
                                             <th class="product-subtotal">Placing Time</th>
                                         </tr>
                                     </thead>
@@ -144,7 +144,7 @@ include_once("includes/head.php");
                                       
                                                     <td class="product-subtotal" data-title="Total">
                                                         <div class="price price-contain">
-                                                            <ins><span class="price-amount"><span class="currencySymbol">Tk. </span><?php echo $order_info['amount'] ?></span></ins>
+                                                            <ins><span class="price-amount"><span class="currencySymbol">$. </span><?php echo $order_info['amount'] ?></span></ins>
 
                                                         </div>
                                                     </td>

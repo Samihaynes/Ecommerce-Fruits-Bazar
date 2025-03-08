@@ -83,8 +83,8 @@ include_once("includes/head.php");
             <!--Navigation section-->
             <div class="container">
                 <nav class="biolife-nav">
-                    <ul>
-                        <li class="nav-item"><a href="index.php" class="permal-link">Home</a></li>
+                    <ul><!--cambio de soufiane  -->
+                        <li class="nav-item"><a href="index.php" class="permal-link">inicio</a></li>
 
                         <li class="nav-item"><span class="current-page">
 
@@ -120,15 +120,15 @@ include_once("includes/head.php");
                                             <b class="categories"> <?php echo $pdt_data['ctg_name'] ?> </b>
                                             <h4 class="product-title"><a href="single_product.php?status=singleproduct&&id=<?php echo $pdt_data['pdt_id'] ?>" class="pr-name"><?php echo $pdt_data['pdt_name'] ?></a></h4>
                                             <div class="price">
-                                                <ins><span class="price-amount"><span class="currencySymbol">Tk. </span><?php echo $pdt_data['pdt_price'] ?></span></ins>
+                                                <ins><span class="price-amount"><span class="currencySymbol">$. </span><?php echo $pdt_data['pdt_price'] ?></span></ins>
 
                                             </div>
                                             <div class="shipping-info">
                                                 <p class="shipping-day">3-Day Shipping</p>
                                                 <p class="for-today">Pree Pickup Today</p>
-                                            </div>
+                                            </div><!--cambio de soufiane  -->
                                             <div class="slide-down-box">
-                                                <p class="message">All products are carefully selected to ensure food safety.</p>
+                                                <p class="message">Todos los productos son seleccionados cuidadosamente para garantizar la seguridad alimentaria.</p>
                                                
                                             </div>
                                         </div>
