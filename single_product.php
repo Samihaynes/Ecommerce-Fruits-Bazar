@@ -170,7 +170,7 @@ include_once("includes/head.php");
 
                                                 <div class="total-price-contain">
                                                     <span class="title">Total Price:</span>
-                                                    <p class="price">Tk.
+                                                    <p class="price">$.
                                                         <?php
 
                                                         echo $pro_data['pdt_price'];

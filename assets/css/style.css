@@ -67,17 +67,17 @@ body{
     font-size: 17px;  /*Cambio de Juan*/
     line-height: 24px;
     font-weight: 400;
-    color: #cdbd90;/*color cambiado*/
+    color: #cdbd90;/*color cambiado soufiane*/
     overflow-x: hidden;
     -ms-word-wrap: break-word;
     word-wrap: break-word;
 }
 label{
     font-weight: 410; /*Cambio de Juan*/
-    color: #333333;
+    color: #333333;/*color cambiado soufiane*/
 }
 label .required{
-    color: #4e4848;
+    color: #4e4848;/*color cambiado soufiane*/
     border-bottom: none;
     text-decoration: none;
 }
@@ -98,7 +98,11 @@ button:hover, button:focus, button:visited, button:active{
     outline: none;
 }
 table {
+<<<<<<< HEAD
     border: 2px solid #b9c0ab; /*Cambio de Jose Angel*/
+=======
+    border: 1px solid #b9c0ab;/*color cambiado soufiane*/
+>>>>>>> 15d432a ( cambio por soufiane final  ))
     border-collapse: collapse;
     border-spacing: 0;
     table-layout: auto;
@@ -106,7 +110,11 @@ table {
     margin-bottom: 20px;
 }
 th,td{
+<<<<<<< HEAD
     border: 2px solid #242222bf; /*Cambio de Jose Angel*/
+=======
+    border: 1px solid #242222bf;/*color cambiado soufiane*/
+>>>>>>> 15d432a ( cambio por soufiane final  ))
     padding: 10px 5px;
     font-weight: normal;
     text-align: center;
@@ -121,7 +129,7 @@ input[type="password"],
 input[type="tel"],
 select,
 input[type="search"]{
-    border: 1px solid #e6e6e6;
+    border: 1px solid #e6e6e6;/*color cambiado soufiane*/
     border-radius: 0;
     padding: 7px 20px;
     max-width: 100%;
@@ -135,7 +143,7 @@ input[type="email"]::-ms-input-placeholder,
 input[type="password"]::-ms-input-placeholder,
 input[type="tel"]::-ms-input-placeholder,
 input[type="search"]::-ms-input-placeholder{
-    color: #888888;
+    color: #888888;/*color cambiado soufiane*/
 }
 input[type="text"]:-ms-input-placeholder,
 input[type="email"]:-ms-input-placeholder,
@@ -157,7 +165,7 @@ select{
     color: #ffffff;
 }
 select option{
-    color: #333333;
+    color: #333333;/*color cambiado soufiane*/
 }
 .nice-select{
     background-color: transparent;
@@ -175,7 +183,7 @@ select option{
     content: "\f0d7";
     font-family: 'FontAwesome', sans-serif;
     font-size: 12px;
-    color: #ffffff;
+    color: #ffffff;/*color cambiado soufiane*/
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     border: none;
@@ -202,7 +210,7 @@ select option{
     transform: rotate( -180deg );
 }
 .nice-select .current{
-    color: #ffffff;
+    color: #ffffff;/*color cambiado soufiane*/
     display: inline-block;
     padding: 14px 0;
 }
@@ -213,7 +221,7 @@ select option{
     -webkit-box-shadow: 0 0 5px 0 rgba(0,0,0,0.2);
     -moz-box-shadow: 0 0 5px 0 rgba(0,0,0,0.2);
     box-shadow: 0 0 5px 0 rgba(0,0,0,0.2);
-    border: 1px solid #670909;
+    border: 1px solid #670909;/*color cambiado soufiane*/
     padding: 3px 23px 10px 15px;
     margin-top: 0;
     z-index: 50;
@@ -221,7 +229,7 @@ select option{
 .nice-select .option{
     font-size: 19px; /*cambio de isabel*/
     line-height: 1;
-    color: #888888;
+    color: #888888;/*color cambiado soufiane*/
     height: auto;
     min-height: auto;
     margin: 16px 0;
@@ -476,7 +484,11 @@ body{
     animation-iteration-count: 1;
 }
 #biof-loading{
+<<<<<<< HEAD
     background-color: #b98490; /*Cambio de Isabel*/
+=======
+    background-color: #b98725;/*color cambiado soufiane*/
+>>>>>>> 15d432a ( cambio por soufiane final  ))
     height: 100%;
     width: 100%;
     position: fixed;
@@ -499,9 +511,15 @@ body{
     margin-left: -75px;
 }
 .biof-loading-center-absolute .dot{
+<<<<<<< HEAD
     width: 23px; /*Cambio de Isabel*/
     height: 23px; /*Cambio de Isabel*/
     background-color: #05a503;
+=======
+    width: 20px;
+    height: 20px;
+    background-color: #05a503;/*color cambiado soufiane*/
+>>>>>>> 15d432a ( cambio por soufiane final  ))
     float: left;
     margin-right: 20px;
     margin-top: 65px;
@@ -528,7 +546,7 @@ body{
 }
 /*********************/
 .btn-scroll-top{
-    color: #a12121;
+    color: #a12121;/*color cambiado soufiane*/
     border-radius: 50%;
     cursor: pointer;
     font-size: 50px;
@@ -590,7 +608,7 @@ body{
     left: -340px;
     width: 320px;
     height: 100vh;
-    background-color: #b58686;
+    background-color: #b58686;/*color cambiado soufiane*/
     -webkit-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
@@ -634,14 +652,14 @@ body{
     list-style: none;
     position: relative;
     padding:0 20px;
-    border-bottom: 1px dashed #795d5d;
+    border-bottom: 1px dashed #795d5d;/*color cambiado soufiane*/
 }
 .biolife-mobile-panels .biolife-prev-panel,
 .biolife-panels-actions-wrap .biolife-prev-panel {
     right: inherit;
     left: 0;
     border: none;
-    border-right: 1px solid #8cb524;
+    border-right: 1px solid #8cb524;/*color cambiado soufiane*/
 }
 .biolife-mobile-panels .biolife-prev-panel:before,
 .biolife-panels-actions-wrap .biolife-prev-panel:before{
@@ -655,7 +673,7 @@ body{
     line-height: 50px;
     padding: 0 50px;
     font-weight: 600;
-    color: #333333;
+    color: #333333;/*color cambiado soufiane*/
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;
@@ -690,7 +708,7 @@ body{
     display: inline-block;
     line-height: 50px;
     text-transform: capitalize;
-    color: #333333;
+    color: #333333;/*color cambiado soufiane*/
 }
 .biolife-panel>ul>li>a>i{
     display: none;
@@ -702,7 +720,7 @@ body{
     position: relative;
 }
 .biolife-clone-wrap .biolife-panel {
-    border-color: #060505;
+    border-color: #060505;/*color cambiado soufiane*/
     bottom: 0;
     box-sizing: border-box;
     display: block;
@@ -730,7 +748,7 @@ body{
 }
 .biolife-mobile-panels,
 .biolife-panels-actions-wrap {
-    border-bottom: 1px solid #2c2626;
+    border-bottom: 1px solid #2c2626;/*color cambiado soufiane*/
     height: 50px;
     position: relative;
 }
@@ -751,7 +769,7 @@ body{
 }
 .biolife-mobile-panels .biolife-close-btn,
 .biolife-panels-actions-wrap .biolife-close-btn{
-    border-left: 1px solid #dddddd;
+    border-left: 1px solid #dddddd;/*color cambiado soufiane*/
 }
 .biolife-panel .mega-content{
     padding: 25px 0;
@@ -780,7 +798,7 @@ body{
     left: 0;
     right: 0;
     font-size: 40px;
-    color: #ece3e3;
+    color: #ece3e3;/*color cambiado soufiane*/
     font-weight: 700;
     line-height: 50px;
     margin: 0;
@@ -813,14 +831,14 @@ body{
 }
 .biolife-nav ul li span,
 .biolife-nav ul li a{
-    color: #666666;
+    color: #666666;/*color cambiado soufiane*/
     font-size: 15px;
     line-height: 1;
     display: inline-block;
 }
 .biolife-nav ul li:last-child::before,
 .biolife-nav ul li:last-child span{
-    color: #222222;
+    color: #222222;/*color cambiado soufiane*/
     font-weight: 600;
 }
 /**************************************/
@@ -877,11 +895,11 @@ body{
     display: inline-block;
 }
 .header-top .top-bar .horizontal-menu a{
-    color: #ffffff;
+    color: #ffffff;/*color cambiado soufiane*/
     font-size: 14px;
 }
 .header-top .top-bar .horizontal-menu a:hover{
-    color: #dddddd;
+    color: #dddddd;/*color cambiado soufiane*/
 }
 .header-top .left a>i{
     font-size: 15px;
@@ -934,10 +952,10 @@ body{
     font-size: 15px;
     line-height: 1;
     display: inline-block;
-    color: #dab3b3;
+    color: #dab3b3;/*color cambiado soufiane*/
 }
 .header-top .top-bar .social-list li a:hover{
-    color: #bed092;
+    color: #bed092;/*color cambiado soufiane*/
 }
 .login-link .biolife-icon{
     font-size: 21px;
@@ -1001,7 +1019,7 @@ body{
 .vertical-category-block .wrap-menu ul.sub-menu,
 .header-area .primary-menu ul.sub-menu,
 .header-area .primary-menu ul .wrap-megamenu{
-    background-color: #bca9a9;
+    background-color: #bca9a9;/*color cambiado soufiane*/
     position: absolute;
     top: 100%;
     left: 0;
@@ -1076,7 +1094,7 @@ body.open-mobile-search .header-area.layout-02{
     z-index: 150;
 }
 .header-area.layout-02 .header-top{
-    background-color: #a7a0a0e6;
+    background-color: #a7a0a0e6;/*color cambiado soufiane*/
 }
 .header-area.layout-02 .header-top .nice-select .current,
 .header-area.layout-02 .header-top .nice-select:after,
@@ -1107,7 +1125,7 @@ body.open-mobile-search .header-area.layout-02{
     z-index: 2;
     height: 18px;
     width: 1px;
-    background-color: #828b7d9d;
+    background-color: #828b7d9d;/*color cambiado soufiane*/
 }
 .header-area.layout-02 .header-top .right .dsktp-open-searchbox{
     font-size: 20px;
@@ -1118,7 +1136,7 @@ body.open-mobile-search .header-area.layout-02{
     z-index: 15;
 }
 .header-area.layout-02 .header-middle:not(.pre-sticky){
-    background-color: rgba(255,255,255,0.1);
+    background-color: rgba(255,255,255,0.1);/*color cambiado soufiane*/
     padding: 24px 0;
     position: absolute;
     top: 100%;
@@ -1127,7 +1145,7 @@ body.open-mobile-search .header-area.layout-02{
     z-index: 1;
 }
 .header-area.layout-02 .header-middle.pre-sticky{
-    background-color: #0ef429;
+    background-color: #0ef429;/*color cambiado soufiane*/
     visibility: hidden;
     -webkit-transition: none;
     -moz-transition: none;
@@ -1144,7 +1162,7 @@ body.open-mobile-search .header-area.layout-02{
 .header-area.layout-02 .primary-menu>ul>li>a{
     font-size: 15px;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #ffffff;/*color cambiado soufiane*/
     position: relative;
 }
 #biolife-main-panel a.menu-name{
@@ -1173,8 +1191,8 @@ body.open-mobile-search .header-area.layout-02{
     font-size: 12px;
     text-transform: uppercase;
     font-weight: 600;
-    background-color: #43c172;
-    border-color: #43c172;
+    background-color: #43c172;/*color cambiado soufiane*/
+    border-color: #43c172;/*color cambiado soufiane*/
     border-radius: 3px;
     min-width: 40px;
     text-align: center;
@@ -1186,13 +1204,13 @@ body.open-mobile-search .header-area.layout-02{
 }
 #biolife-main-panel .menu-name .sup-item>span.sale,
 .header-area.layout-02 .primary-menu>ul>li>a span.sale{
-    background-color: #e21212;
-    border-color: #ea9d0f;
+    background-color: #e21212;/*color cambiado soufiane*/
+    border-color: #ea9d0f;/*color cambiado soufiane*/
 }
 #biolife-main-panel .menu-name .sup-item>span.feature,
 .header-area.layout-02 .primary-menu>ul>li>a span.feature{
-    background-color: #35445f;
-    border-color: #3b537f;
+    background-color: #35445f;/*color cambiado soufiane*/
+    border-color: #3b537f;/*color cambiado soufiane*/
 }
 #biolife-main-panel .menu-name span::before,
 .header-area.layout-02 .primary-menu>ul>li>a span::before{
@@ -1217,7 +1235,7 @@ body.open-mobile-search .header-area.layout-02{
 .header-area .biolife-cart-info .login-item .login-link{
     font-size: 14px;
     line-height: 1;
-    color: #ffffff;
+    color: #ffffff;/*color cambiado soufiane*/
     font-weight: 600;
     text-transform: uppercase;
 }
@@ -1234,7 +1252,7 @@ body.open-mobile-search .header-area.layout-02{
 .header-area.layout-02 .biolife-cart-info .minicart-contain a>.sub-total,
 .header-area.layout-02 .biolife-cart-info .minicart-contain a>.title,
 .header-area.layout-02 .biolife-cart-info .icon-qty-combine .biolife-icon{
-    color: #6dc524;
+    color: #6dc524;/*color cambiado soufiane*/
 }
 .biolife-cart-info{
     font-size: 0;
@@ -1266,7 +1284,7 @@ body.open-mobile-search .header-area.layout-02{
     margin: 0;
     min-width: 19px;
     padding: 1px 5px 2px;
-    color: #ffffff;
+    color: #ffffff;/*color cambiado soufiane*/
     border-radius: 50%;
     position: absolute;
     right: -8px;
@@ -1275,13 +1293,13 @@ body.open-mobile-search .header-area.layout-02{
 }
 .biolife-cart-info .icon-qty-combine .biolife-icon{
     font-size: 20px;
-    color: #333333;
+    color: #333333;/*color cambiado soufiane*/
 }
 .biolife-cart-info .minicart-contain a>.title{
     font-size: 14px;
     line-height: 16px;
     display: inline;
-    color: #555555;
+    color: #555555;/*color cambiado soufiane*/
     font-weight: 600;
     margin-left: 6px;
 }

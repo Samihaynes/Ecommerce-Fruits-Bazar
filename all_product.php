@@ -100,7 +100,7 @@ include_once("includes/head.php");
                                                 <p class="shipping-day">3-Day Shipping</p>
                                                 <p class="for-today">Pree Pickup Today</p>
                                             </div>
-                                            <div class="slide-down-box">
+                                            <div class="slide-down-box"><!--cambio de soufiane  -->
                                                 <p class="message">Todos los productos son seleccionados cuidadosamente para garantizar la seguridad alimentaria.</p>
                                                
                                             </div>

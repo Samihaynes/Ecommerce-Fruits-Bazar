@@ -15,17 +15,17 @@
                                             </div>
                                             <div class="info">
                                                 <div class="biolife-countdown" data-datetime="2020-01-18 00:00 +00:00"></div>
-                                                <b class="categories">Fruta fresca</b>
+                                                <b class="categories">Fruta fresca</b><!--cambio por soufiane-->
                                                 <h4 class="product-title"><a href="#" class="pr-name">Fruta fresca nacional</a></h4>
                                                 <div class="price ">
                                                     <ins><span class="price-amount"><span class="currencySymbol">$</span>85.00</span></ins>
                                                     <del><span class="price-amount"><span class="currencySymbol">$</span>95.00</span></del>
                                                 </div>
-                                                <div class="slide-down-box">
+                                                <div class="slide-down-box"> <!--cambio por soufiane-->
                                                     <p class="message">Todos los productos son cuidadosamente seleccionados para garantizar la seguridad alimentaria..</p>
                                                     <div class="buttons">
                                                         <a href="#" class="btn wishlist-btn"><i class="fa fa-heart" aria-hidden="true"></i></a>
-                                                        <a href="#" class="btn add-to-cart-btn">añadir al carrito</a>
+                                                        <a href="#" class="btn add-to-cart-btn">añadir al carrito</a><!--cambio por soufiane-->
                                                         <a href="#" class="btn compare-btn"><i class="fa fa-random" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>
@@ -51,10 +51,10 @@
                                                     <del><span class="price-amount"><span class="currencySymbol">$</span>95.00</span></del>
                                                 </div>
                                                 <div class="slide-down-box">
-                                                    <p class="message">Todos los productos son cuidadosamente seleccionados para garantizar la seguridad alimentaria..</p>
+                                                    <p class="message">Todos los productos son cuidadosamente seleccionados para garantizar la seguridad alimentaria..</p><!--cambio por soufiane-->
                                                     <div class="buttons">
                                                         <a href="#" class="btn wishlist-btn"><i class="fa fa-heart" aria-hidden="true"></i></a>
-                                                        <a href="#" class="btn add-to-cart-btn">añadir al carrito</a>
+                                                        <a href="#" class="btn add-to-cart-btn">añadir al carrito</a><!--cambio por soufiane-->
                                                         <a href="#" class="btn compare-btn"><i class="fa fa-random" aria-hidden="true"></i></a>
                                                     </div>
                                                 </div>

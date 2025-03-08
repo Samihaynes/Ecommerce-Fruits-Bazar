@@ -108,7 +108,7 @@ include_once("includes/head.php");
                                             
                                             <h4 class="product-title"><a href="single_product.php?status=singleproduct&&id=<?php echo $search_pdt['pdt_id'] ?>" class="pr-name"><?php echo $search_pdt['pdt_name'] ?></a></h4>
                                             <div class="price">
-                                                <ins><span class="price-amount"><span class="currencySymbol">$ </span><?php echo $search_pdt['pdt_price'] ?></span></ins>
+                                                <ins><span class="price-amount"><span class="currencySymbol">$ <!--cambio de soufiane  --></span><?php echo $search_pdt['pdt_price'] ?></span></ins>
 
                                             </div>
                                             <div class="shipping-info">
@@ -116,6 +116,7 @@ include_once("includes/head.php");
                                                 <p class="for-today">Recogida previa hoy</p>
                                             </div>
                                             <div class="slide-down-box">
+                                                <!--cambio de soufiane  -->
                                                 <p class="message">Todos los productos son seleccionados cuidadosamente para garantizar la seguridad alimentaria.</p>
                                                
                                             </div>

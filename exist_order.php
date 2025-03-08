@@ -97,7 +97,7 @@ include_once("includes/head.php");
 
                                 <table class="shop_table cart-form">
                                     <thead>
-                                        <tr>
+                                        <tr><!--cambio de soufiane  -->
                                             <th class="product-name">Order Id</th>
                                             <th class="product-price">Productos</th>
                                             <th class="product-quantity">cantidad</th>
