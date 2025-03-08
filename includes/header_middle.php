@@ -46,12 +46,12 @@ if (isset($_POST['remove_product'])) {
                     <ul class="menu biolife-menu clone-main-menu clone-primary-menu" id="primary-menu" data-menuname="main menu">
 
 
-
-                        <li class="menu-item"><a href="index.php">Home</a></li>
-                        <li class="menu-item"><a href="all_product.php">All Product</a></li>
-                        <li class="menu-item"><a href="#">About Us</a></li>
+			<!--Cambio de texto por juan-->
+                        <li class="menu-item"><a href="index.php">Inicio</a></li>
+                        <li class="menu-item"><a href="all_product.php">Tienda</a></li>
+                        <li class="menu-item"><a href="#"> sobre Nosotros</a></li>
                        
-                        <li class="menu-item"><a href="#">Privacy Policy </a></li>
+                        <li class="menu-item"><a href="#">Politicas de privacidad</a></li>
                         <?php 
                             if(isset($_SESSION['user_id'])){
                                  ?>
