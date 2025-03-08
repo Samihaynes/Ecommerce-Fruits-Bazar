@@ -64,7 +64,7 @@
 *************************/
 body{
     font-family: 'Cairo', sans-serif;
-    font-size: 15px;
+    font-size: 18px;  /*Cambio de Juan*/
     line-height: 24px;
     font-weight: 400;
     color: #666666;
@@ -73,7 +73,7 @@ body{
     word-wrap: break-word;
 }
 label{
-    font-weight: 400;
+    font-weight: 410; /*Cambio de Juan*/
     color: #333333;
 }
 label .required{
