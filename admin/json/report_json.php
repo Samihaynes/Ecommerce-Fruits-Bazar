@@ -1,8 +1,8 @@
 <?php 
  $dbhost = "localhost";
- $dbuser = "root";
- $dbpass = "";
- $dbname = "ecommerce";
+ $dbuser = "qinvvifb_ecommerce";
+ $dbpass = "tppSdF3bSxb9Y7fwqHnF";
+ $dbname = "qinvvifb_ecommerce";
 
  $connection = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
 
