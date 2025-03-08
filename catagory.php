@@ -84,7 +84,7 @@ include_once("includes/head.php");
             <div class="container">
                 <nav class="biolife-nav">
                     <ul>
-                        <li class="nav-item"><a href="index.php" class="permal-link">Home</a></li>
+                        <li class="nav-item"><a href="index.php" class="permal-link">inicio</a></li>
 
                         <li class="nav-item"><span class="current-page">
 
@@ -120,7 +120,7 @@ include_once("includes/head.php");
                                             <b class="categories"> <?php echo $pdt_data['ctg_name'] ?> </b>
                                             <h4 class="product-title"><a href="single_product.php?status=singleproduct&&id=<?php echo $pdt_data['pdt_id'] ?>" class="pr-name"><?php echo $pdt_data['pdt_name'] ?></a></h4>
                                             <div class="price">
-                                                <ins><span class="price-amount"><span class="currencySymbol">Tk. </span><?php echo $pdt_data['pdt_price'] ?></span></ins>
+                                                <ins><span class="price-amount"><span class="currencySymbol">$. </span><?php echo $pdt_data['pdt_price'] ?></span></ins>
 
                                             </div>
                                             <div class="shipping-info">
