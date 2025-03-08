@@ -6,9 +6,9 @@ class  adminback
     function __construct()
     {
         $dbhost = "localhost";
-        $dbuser = "root";
-        $dbpass = "";
-        $dbname = "ecommerce";
+        $dbuser = "qinvvifb_ecommerce";
+        $dbpass = "tppSdF3bSxb9Y7fwqHnF";
+        $dbname = "qinvvifb_ecommerce";
 
         $this->connection = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
 
