@@ -219,7 +219,7 @@ select option{
     z-index: 50;
 }
 .nice-select .option{
-    font-size: 14px;
+    font-size: 19px; /*cambio de isabel*/
     line-height: 1;
     color: #888888;
     height: auto;
@@ -476,7 +476,7 @@ body{
     animation-iteration-count: 1;
 }
 #biof-loading{
-    background-color: #b98725;
+    background-color: #b98490; /*Cambio de Isabel*/
     height: 100%;
     width: 100%;
     position: fixed;
@@ -499,8 +499,8 @@ body{
     margin-left: -75px;
 }
 .biof-loading-center-absolute .dot{
-    width: 20px;
-    height: 20px;
+    width: 23px; /*Cambio de Isabel*/
+    height: 23px; /*Cambio de Isabel*/
     background-color: #05a503;
     float: left;
     margin-right: 20px;
