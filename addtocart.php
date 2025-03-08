@@ -93,14 +93,14 @@ include_once("includes/head.php");
                 <div class="shopping-cart-container">
                     <div class="row">
                         <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
-                            <h3 class="box-title">Your cart items</h3>
+                            <h3 class="box-title">carreto etimes</h3>
                             <form class="shopping-cart-form" action="#" method="post">
                                 <table class="shop_table cart-form">
                                     <thead>
                                         <tr>
-                                            <th class="product-name">Product Name</th>
-                                            <th class="product-price">Price (Tk)</th>
-                                            <th class="product-quantity">Remove</th>
+                                            <th class="product-name">Nombre del producto</th>
+                                            <th class="product-price">Price ($)</th>
+                                            <th class="product-quantity">Borrar</th>
                                             <!-- <th class="product-subtotal">Total (TK)</th> -->
                                         </tr>
                                     </thead>
@@ -156,7 +156,7 @@ include_once("includes/head.php");
                             <div class="shpcart-subtotal-block">
                                 <div class="subtotal-line ">
                                     <b class="stt-name">Subtotal <span class="sub">(<?php echo  $total_product.'Items' ?>)</span></b>
-                                    <span class="stt-price">Tk. <?php echo $subtotal; ?></span>
+                                    <span class="stt-price">$. <?php echo $subtotal; ?></span>
                                 </div>
                                 <!-- <div class="subtotal-line">
                                     <b class="stt-name">Shipping</b>
@@ -170,7 +170,7 @@ include_once("includes/head.php");
                                     <a href="userprofile.php" class="btn checkout">Check out</a>
                                 </div>
                               
-                                <p class="pickup-info"><b>Free Pickup</b> is available as soon as today More about shipping and pickup</p>
+                                <p class="pickup-info"><b>Free Pickup</b>está disponible a partir de hoy Más información sobre envío y recogida </p>
                             </div>
                         </div>
                     </div>

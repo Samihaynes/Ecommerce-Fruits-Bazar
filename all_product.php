@@ -101,7 +101,7 @@ include_once("includes/head.php");
                                                 <p class="for-today">Pree Pickup Today</p>
                                             </div>
                                             <div class="slide-down-box">
-                                                <p class="message">All products are carefully selected to ensure food safety.</p>
+                                                <p class="message">Todos los productos son seleccionados cuidadosamente para garantizar la seguridad alimentaria.</p>
                                                
                                             </div>
                                         </div>

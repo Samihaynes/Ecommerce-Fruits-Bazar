@@ -67,7 +67,7 @@ body{
     font-size: 17px;  /*Cambio de Juan*/
     line-height: 24px;
     font-weight: 400;
-    color: #666666;
+    color: #cdbd90;/*color cambiado*/
     overflow-x: hidden;
     -ms-word-wrap: break-word;
     word-wrap: break-word;
@@ -77,7 +77,7 @@ label{
     color: #333333;
 }
 label .required{
-    color: #ff2727;
+    color: #4e4848;
     border-bottom: none;
     text-decoration: none;
 }
@@ -98,7 +98,7 @@ button:hover, button:focus, button:visited, button:active{
     outline: none;
 }
 table {
-    border: 1px solid #E6E6E6;
+    border: 1px solid #b9c0ab;
     border-collapse: collapse;
     border-spacing: 0;
     table-layout: auto;
@@ -106,7 +106,7 @@ table {
     margin-bottom: 20px;
 }
 th,td{
-    border: 1px solid #e6e6e6;
+    border: 1px solid #242222bf;
     padding: 10px 5px;
     font-weight: normal;
     text-align: center;
@@ -213,7 +213,7 @@ select option{
     -webkit-box-shadow: 0 0 5px 0 rgba(0,0,0,0.2);
     -moz-box-shadow: 0 0 5px 0 rgba(0,0,0,0.2);
     box-shadow: 0 0 5px 0 rgba(0,0,0,0.2);
-    border: 1px solid #e4e4e4;
+    border: 1px solid #670909;
     padding: 3px 23px 10px 15px;
     margin-top: 0;
     z-index: 50;
@@ -476,7 +476,7 @@ body{
     animation-iteration-count: 1;
 }
 #biof-loading{
-    background-color: #F2F1EF;
+    background-color: #b98725;
     height: 100%;
     width: 100%;
     position: fixed;
@@ -528,7 +528,7 @@ body{
 }
 /*********************/
 .btn-scroll-top{
-    color: #333333;
+    color: #a12121;
     border-radius: 50%;
     cursor: pointer;
     font-size: 50px;
@@ -590,7 +590,7 @@ body{
     left: -340px;
     width: 320px;
     height: 100vh;
-    background-color: #fff;
+    background-color: #b58686;
     -webkit-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
@@ -634,14 +634,14 @@ body{
     list-style: none;
     position: relative;
     padding:0 20px;
-    border-bottom: 1px dashed #dddddd;
+    border-bottom: 1px dashed #795d5d;
 }
 .biolife-mobile-panels .biolife-prev-panel,
 .biolife-panels-actions-wrap .biolife-prev-panel {
     right: inherit;
     left: 0;
     border: none;
-    border-right: 1px solid #dddddd;
+    border-right: 1px solid #8cb524;
 }
 .biolife-mobile-panels .biolife-prev-panel:before,
 .biolife-panels-actions-wrap .biolife-prev-panel:before{
@@ -702,7 +702,7 @@ body{
     position: relative;
 }
 .biolife-clone-wrap .biolife-panel {
-    border-color: #ffffff;
+    border-color: #060505;
     bottom: 0;
     box-sizing: border-box;
     display: block;
@@ -730,7 +730,7 @@ body{
 }
 .biolife-mobile-panels,
 .biolife-panels-actions-wrap {
-    border-bottom: 1px solid #dddddd;
+    border-bottom: 1px solid #2c2626;
     height: 50px;
     position: relative;
 }
@@ -780,7 +780,7 @@ body{
     left: 0;
     right: 0;
     font-size: 40px;
-    color: #ffffff;
+    color: #ece3e3;
     font-weight: 700;
     line-height: 50px;
     margin: 0;
@@ -902,10 +902,10 @@ body{
     vertical-align: middle;
     min-width: 140px;
     padding: 0 20px;
-    border-right: 1px solid rgba(255,255,255,0.33);
+    border-right: 1px solid rgba(98, 80, 80, 0.33);
 }
 .header-top .right .horizontal-menu>li:first-child{
-    border-left: 1px solid rgba(255,255,255,0.33);
+    border-left: 1px solid rgba(106, 95, 95, 0.33);
 }
 .header-top .right .horizontal-menu>li>a{
     display: inline-block;
@@ -934,10 +934,10 @@ body{
     font-size: 15px;
     line-height: 1;
     display: inline-block;
-    color: #ffffff;
+    color: #dab3b3;
 }
 .header-top .top-bar .social-list li a:hover{
-    color: #dddddd;
+    color: #bed092;
 }
 .login-link .biolife-icon{
     font-size: 21px;
@@ -1001,7 +1001,7 @@ body{
 .vertical-category-block .wrap-menu ul.sub-menu,
 .header-area .primary-menu ul.sub-menu,
 .header-area .primary-menu ul .wrap-megamenu{
-    background-color: #ffffff;
+    background-color: #bca9a9;
     position: absolute;
     top: 100%;
     left: 0;
@@ -1076,7 +1076,7 @@ body.open-mobile-search .header-area.layout-02{
     z-index: 150;
 }
 .header-area.layout-02 .header-top{
-    background-color: #ffffff;
+    background-color: #a7a0a0e6;
 }
 .header-area.layout-02 .header-top .nice-select .current,
 .header-area.layout-02 .header-top .nice-select:after,
@@ -1107,7 +1107,7 @@ body.open-mobile-search .header-area.layout-02{
     z-index: 2;
     height: 18px;
     width: 1px;
-    background-color: #e5e5e5;
+    background-color: #828b7d9d;
 }
 .header-area.layout-02 .header-top .right .dsktp-open-searchbox{
     font-size: 20px;
@@ -1127,7 +1127,7 @@ body.open-mobile-search .header-area.layout-02{
     z-index: 1;
 }
 .header-area.layout-02 .header-middle.pre-sticky{
-    background-color: #ffb71a;
+    background-color: #0ef429;
     visibility: hidden;
     -webkit-transition: none;
     -moz-transition: none;
@@ -1186,13 +1186,13 @@ body.open-mobile-search .header-area.layout-02{
 }
 #biolife-main-panel .menu-name .sup-item>span.sale,
 .header-area.layout-02 .primary-menu>ul>li>a span.sale{
-    background-color: #ffc356;
-    border-color: #ffc356;
+    background-color: #e21212;
+    border-color: #ea9d0f;
 }
 #biolife-main-panel .menu-name .sup-item>span.feature,
 .header-area.layout-02 .primary-menu>ul>li>a span.feature{
-    background-color: #0059ff;
-    border-color: #0059ff;
+    background-color: #35445f;
+    border-color: #3b537f;
 }
 #biolife-main-panel .menu-name span::before,
 .header-area.layout-02 .primary-menu>ul>li>a span::before{
@@ -1225,16 +1225,16 @@ body.open-mobile-search .header-area.layout-02{
     color: inherit;
 }
 .header-area.layout-02 .biolife-cart-info .minicart-block .cart-inner{
-    border-top-color: #05a503;
+    border-top-color: #82a3a1;
 }
 .header-area.layout-02 .biolife-cart-info .minicart-block .btn-control .view-cart:not(:hover){
-    background-color: #05a503;
+    background-color: #667d7f;
 }
 .header-area.layout-02 .mobile-search .open-searchbox .biolife-icon,
 .header-area.layout-02 .biolife-cart-info .minicart-contain a>.sub-total,
 .header-area.layout-02 .biolife-cart-info .minicart-contain a>.title,
 .header-area.layout-02 .biolife-cart-info .icon-qty-combine .biolife-icon{
-    color: #ffffff;
+    color: #6dc524;
 }
 .biolife-cart-info{
     font-size: 0;

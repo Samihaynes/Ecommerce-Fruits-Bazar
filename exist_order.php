@@ -99,10 +99,10 @@ include_once("includes/head.php");
                                     <thead>
                                         <tr>
                                             <th class="product-name">Order Id</th>
-                                            <th class="product-price">Products</th>
-                                            <th class="product-quantity">Quantity</th>
+                                            <th class="product-price">Productos</th>
+                                            <th class="product-quantity">cantidad</th>
                                             <th class="product-subtotal">Amount</th>
-                                            <th class="product-subtotal">Order Status</th>
+                                            <th class="product-subtotal">estado de order</th>
                                             <th class="product-subtotal">Placing Time</th>
                                         </tr>
                                     </thead>
